@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="control_task2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/archive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

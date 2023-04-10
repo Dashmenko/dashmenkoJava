@@ -1,0 +1,9 @@
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Documents and Settings\smirnovmv\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
